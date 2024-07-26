@@ -12,11 +12,11 @@ portfolio_structure = {
 
 # Content for each HTML file
 portfolio_content = {
-    'index.html': 'Hi, My Name is Cameron James Hirschboeck. Thank you, Cameron UN.',
+    'index.html': 'Hi, My Name is Cameron James Hirschboeck I'd like to earn more dollars. A Link to my Image https://docs.google.com/document/d/1WxMWPYm4SGumMptLw3-64d3hxRPRdAR1K_PGWMZ8QTU/edit?usp=sharing Welcome, Thank you, Cameron UN.',
     'about.html': 'Hi, I am currently employed as a Material Handler at Fedex. I am enrolled at Coding Temple and National University. I am going into technology because the employment rate is high. I like to walk. Thank you, Cameron.',
-    'projects.html': 'Hi, This is my example of Web Fundamentals. You are tasked with creating a Python application that interfaces with a public API, fetches data, and processes it. https://github.com/CamHirsch23/Web-Fundamentals.py.git Thank you, Cameron.',
+    'projects.html': 'Hi, This is my example of Web Fundamentals. You are tasked with creating a Python application that interfaces with a public API, fetches data, and processes it. https://github.com/CamHirsch23/Web-Fundamentals.py.git I use You.com. Thank you, Cameron.',
     'skills.html': 'Hi, I have taken computer courses in the past and I think with help I can be a better coder. Thank you, Cameron.',
-    'contact.html': 'Hi, please reach out to me on GitHub: [CamHirsch23](https://github.com/CamHirsch23). Thank you, Cameron.',
+    'contact.html': 'Hi, please reach out to me on GitHub: [CamHirsch23](https://github.com/CamHirsch23).ALso this is a link to my resume https://profile.indeed.com/p/cameronh-2eqdzmb Thank you, Cameron.',
 }
 
 # Function to create HTML files with basic structure
