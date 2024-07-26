@@ -54,11 +54,11 @@ Open the `index.html` file in a web browser to view the portfolio.
 
 ## Project Structure
 
-- `index.html`: Home Page/Section
-- `about.html`: About Me Page/Section
-- `projects.html`: Projects Page/Section
-- `skills.html`: Skills Page/Section
-- `contact.html`: Contact Page/Section
+- `index.html`: Hi My Name is Cameron James Hirschboeck Thank you, Cameron UN
+- `about.html`: Hi I am currently employed as a Material Handler at Fedex. I am currently Enrolled at Coding Temple and National University. I am going into technology because the employment rate is high. I like to walk. Thank you, Cameron'
+- `projects.html`: Hi This is my example of Web Fundamentals You are tasked with creating a Python application that interfaces with a public API, fetches data, and processes it. Thank you, Cameron
+- `skills.html`: Hi I have taken computer courses in the past and I think with help I can be a better coder Thank you, Cameron
+- `contact.html`: Hi My Contact Number is 414-469-9038 and My git hub is https://github.com/CamHirsch23 Thank you, Cameron
 
 ## Contributions
 
